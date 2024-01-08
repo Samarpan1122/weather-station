@@ -1,14 +1,3 @@
-// TECHATRONIC.COM
-// I2C LIBRARY
-// https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
-// BLYNK LIBRARY
-// https://github.com/blynkkk/blynk-library
-// ESP8266 LIBRARY
-// https://github.com/ekstrand/ESP8266wifi
-// Adafruit DHT sensor library:
-// https://github.com/adafruit/DHT-sensor-library
-
- 
 #include <LiquidCrystal_I2C.h>
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
